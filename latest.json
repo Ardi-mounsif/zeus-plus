@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
+  "version": "2.8.0",
   "notes": "Zeus Secure VAULT v2.7.0 Official Major Release - Full i18n Fixes & Modernized Layout.",
   "pub_date": "2026-07-30T22:25:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS25OSkc5Q3EwRlh2b0FlcDUyR2t6ck9nM1BsNTBBeHJBNXplSi80S3hVcU42TjQ0cER6RHdpVkhhZnlXQmk1ckVOa29XNitIMTRmQk1NM2hlKzhsREViWGJDUmdPOVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDQ2NzU1CWZpbGU6WmV1c19TZWN1cmVfVkFVTFRfMi43LjBfeDY0X3VwZGF0ZS56aXAKN3ZxNUtNU2N4SW0wejkvVEVoT0xBbWNpSmxHeWcwZFY3SWhHT0h3eTZQQVJHU1BrN05IcWFKRURiRm1QUC9jSjFYYUdVM3NjV21BcFQ1bTNOeXBWQXc9PQo=",
-      "url": "https://github.com/Ardi-mounsif/zeus-plus/releases/download/2.7/Zeus_Secure_VAULT_2.7.0_x64_update.zip"
+      "url": "https://github.com/Ardi-mounsif/zeus-plus/releases/download/2.7/Zeus_Secure_VAULT_2.8.0_x64_update.zip"
     }
   }
 }
