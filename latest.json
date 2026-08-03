@@ -3,7 +3,6 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/Ardi-mounsif/zeus-plus/main/Zeus%20Secure%20VAULT_2.7.1_x64-setup.exe",
-      "UMI": "1",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWjBhaXRhbUNML2MyMGlhSHlxTjExT0grTnNKYXpyRnlRZW52bXJCTnYxZVBaYXYrcmo3Y0M0YUxwVUovZE02TjNiK2R5b1ZoM3MrOWh3bmx4U1phbFliSlkyU2pyZGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzE5NTc4CWZpbGU6WmV1cyBTZWN1cmUgVkFVTFRfMi43LjFfeDY0LXNldHVwLmV4ZQp2eXh2aUZqYTRzalBEY3RGSHNiUjVpallVQWFKRmJ5QlpOcXVsdnhaeUxKK2w4UnNpUTVmWmg4RGVQTkoyRUgzRzNTcUZpek5JMnMrcUE0a1EzTE9BZz09Cg=="
     }
   },
