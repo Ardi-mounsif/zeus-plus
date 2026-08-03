@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdDdGZWY2KzU4aHBldE5KTHNNTW5BVmZLUld3d0c1azlqMFRGbi8yTXFsRnNGcWNkd3ZuT2RrbEp5ZUp0MnlPOGtDbS9rQlFnVW5qc1pOdXRkQWhPOTVJWXBPNEFlTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTQ2ODkyCWZpbGU6WmV1cyBTZWN1cmUgVkFVTFRfMi43LjBfeDY0LXNldHVwLmV4ZQpGaUptaXd2TjZxOWx2MUFzVmZnMUNoOEVZZ0cyVlM3N2V0V3R2c2NTMVZ0aXB1a2JjRGtNMEdjUUpWb1M3Qkl5Nis3dUVhUWJuT2ZRMTJucFFBYjdCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/Ardi-mounsif/zeus-plus/refs/heads/main/target/release/bundle/nsis/Zeus%20Secure%20VAULT_2.7.0_x64-setup.exe"
+      "url": "https://github.com/Ardi-mounsif/zeus-plus/blob/main/Zeus_Secure_VAULT_2.8.0_x64_update.zip"
     }
   }
 }
